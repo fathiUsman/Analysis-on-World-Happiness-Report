@@ -10,7 +10,7 @@ The happiness scores and rankings use data from the Gallup World Poll. The colum
 More information about a survey: https://worldhappiness.report/ed/2021/
 Datasets coleect from:https://www.kaggle.com/mathurinache/world-happiness-report-20152021
 
-Pacakges used:
+Packages used:
 Pandas
 Numpy
 Matplotlib
